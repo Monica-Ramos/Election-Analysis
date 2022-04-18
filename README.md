@@ -7,4 +7,5 @@ This project has the purpose of analyzing the election results. It seeks to show
 
 * The total number of votes in the election is 369,711
 * The following image shows the results for the total votes and percentage for each county
+
 ![](Resources/county_votes.png)
